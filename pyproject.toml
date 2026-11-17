@@ -1,0 +1,11 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "erpnext-gem-portal-bid-contract-engine"
+authors = [{name = "Shyam Kumar Pandey", email = "shyamkumarpandey1104@gmail.com"}]
+description = "ERPNext GeM 4.0 Portal Integration: Public Procurement, Bid Tracking, EMD Bank Guarantees, L1 Price Simulation & CRAC Invoicing."
+version = "1.0.0"
+readme = "README.md"
+classifiers = ["Framework :: Frappe"]

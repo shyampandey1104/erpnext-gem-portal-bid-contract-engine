@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include gem_portal_bid *.css
+recursive-include gem_portal_bid *.csv
+recursive-include gem_portal_bid *.html
+recursive-include gem_portal_bid *.ico
+recursive-include gem_portal_bid *.js
+recursive-include gem_portal_bid *.json
+recursive-include gem_portal_bid *.md
+recursive-include gem_portal_bid *.png
+recursive-include gem_portal_bid *.py
+recursive-include gem_portal_bid *.svg
+recursive-include gem_portal_bid *.txt
+recursive-exclude gem_portal_bid *.pyc

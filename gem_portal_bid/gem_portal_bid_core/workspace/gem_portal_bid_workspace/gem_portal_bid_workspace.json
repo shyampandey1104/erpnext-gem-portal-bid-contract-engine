@@ -1,0 +1,30 @@
+{
+ "charts": [],
+ "content": "[{\"type\":\"header\",\"data\":{\"text\":\"Erpnext Gem Portal Bid Contract Engine Workspace\",\"level\":4}}]",
+ "creation": "2026-04-01 10:00:00.000000",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "octicon octicon-book",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Erpnext Gem Portal Bid Contract Engine",
+ "links": [],
+ "modified": "2026-04-01 10:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "Gem_Portal_Bid_Core",
+ "name": "Erpnext Gem Portal Bid Contract Engine",
+ "owner": "Administrator",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "sequence_id": 1,
+ "shortcuts": [],
+ "title": "Erpnext Gem Portal Bid Contract Engine"
+}
